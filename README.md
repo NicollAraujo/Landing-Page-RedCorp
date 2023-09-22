@@ -13,6 +13,24 @@ RedCorp es una aplicación creada por estudiantes de la Universidad de Ciencias 
 En esta aplicación la empresa podrá dividir sus áreas de trabajo y permitir la colaboración entre trabajadores, creando secciones de grupos de trabajo los cuales tienen herramientas para facilitar la gestión de tareas, además cuenta con un cronograma individual y grupal de trabajo, calendario de proyectos de la empresa, visualización del progreso y creación de subgrupos.
 
 ---
+
+## Autores
+
+### Nicoll Araujo
+![Nicoll Araujo](https://github.com/AnthonyNunez500/ICH-Grupo1-SS4B-LandingPage.github.io/blob/main/png/N.png)
+
+### Anthony Nuñez
+![Anthony Nuñez](https://github.com/AnthonyNunez500/ICH-Grupo1-SS4B-LandingPage.github.io/blob/main/png/A.png)
+
+### Fabrizzio Castro
+![Fabrizzio Castro](https://github.com/AnthonyNunez500/ICH-Grupo1-SS4B-LandingPage.github.io/blob/main/png/F2.png)
+
+### Fabricio Huilca
+![Fabricio Huilca](https://github.com/AnthonyNunez500/ICH-Grupo1-SS4B-LandingPage.github.io/blob/main/png/F.png)
+
+
+---
+
 ## Segmentos objetivo
 
 ### Segmento de empresas
@@ -30,3 +48,4 @@ Como segmento objetivo tendríamos a empresas corporativas de servicios que ya e
 - Interfaz de inicio que muestra las publicaciones, novedades y proyectos a futuro de la empresa, así mismo un cronograma de actividades.
 
 - Gestión de secciones apartadas correspondientes a cada área, para los grupos de trabajos que se deseen crear, las cuales contarán con herramientas virtuales dependiendo el enfoque del grupo de trabajo en cuestión.
+
